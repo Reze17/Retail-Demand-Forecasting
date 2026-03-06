@@ -1,0 +1,5 @@
+retailvenv/
+.env
+.setting.projA/
+mysql_mcp_server/
+__pycache__/
